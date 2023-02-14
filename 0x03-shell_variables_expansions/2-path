@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "${PATH}/action"
+s=PATH
+s="${s}/action"
